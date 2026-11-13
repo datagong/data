@@ -8,17 +8,17 @@ Fictional data for the DATAGONG Power BI course: Orlavi, an imaginary coffee roa
 
 ```
 formation-power-bi/
-└── 20261110/                          graine du jeu courant
-    ├── fr/ et en/
-    │   ├── modele/                    tables lues par le projet Power BI (CSV, virgule, point décimal, dates ISO, UTF-8)
-    │   ├── cours/                     fichiers remis à l'apprenant, rangés comme sur son poste
-    │   └── fichiers-du-cours-module-0.zip / course-files-module-0.zip
+├── fr/     tables lues par le projet Power BI (ventes.csv, produits.csv…, CSV à virgule, point décimal,
+│           dates ISO, UTF-8), fichiers remis à l'apprenant, archive de chaque module
+└── en/     la même chose en anglais (sales.csv, Online sales 2026.xlsx, course-files-module-0.zip…)
 ```
+
+Graine du jeu : 20261110.
 
 ## Versions figées
 
 Chaque tranche du générateur est figée par une étiquette : `powerbi-m0` pour le module 0. Une adresse qui cite l'étiquette ne change jamais :
 
-`https://raw.githubusercontent.com/datagong/data/powerbi-m0/formation-power-bi/20261110/fr/modele/ventes.csv`
+`https://raw.githubusercontent.com/datagong/data/powerbi-m0/formation-power-bi/fr/ventes.csv`
 
 Les fichiers déjà livrés ne sont jamais réécrits par une tranche suivante ; leurs empreintes SHA-256 sont tenues par le générateur. Ne modifiez pas ces fichiers à la main : ils sont produits par un script.
