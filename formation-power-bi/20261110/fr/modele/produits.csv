@@ -1,0 +1,34 @@
+Identifiant produit,Code article,Produit,Famille,Rang de famille,Gamme,Rang de gamme,Format,Poids net (kg),Pays d'origine,Prix catalogue HT,Date de lancement,Page produit
+1,004101,Éthiopie Sidamo 250 g,Café,1,Origines,1,250 g,0.250,Éthiopie,10.51,2017-03-01,https://example.com/fr/produits/004101
+2,004102,Éthiopie Sidamo 1 kg,Café,1,Origines,1,1 kg,1.000,Éthiopie,36.09,2017-03-01,https://example.com/fr/produits/004102
+3,004111,Colombie Huila 250 g,Café,1,Origines,1,250 g,0.250,Colombie,9.77,2017-03-01,https://example.com/fr/produits/004111
+4,004112,Colombie Huila 1 kg,Café,1,Origines,1,1 kg,1.000,Colombie,33.44,2017-03-01,https://example.com/fr/produits/004112
+5,004121,Brésil Cerrado 250 g,Café,1,Origines,1,250 g,0.250,Brésil,8.92,2017-03-01,https://example.com/fr/produits/004121
+6,004122,Brésil Cerrado 1 kg,Café,1,Origines,1,1 kg,1.000,Brésil,30.26,2017-03-01,https://example.com/fr/produits/004122
+7,004131,Pérou Cajamarca 250 g,Café,1,Origines,1,250 g,0.250,Pérou,9.55,2017-03-01,https://example.com/fr/produits/004131
+8,004132,Pérou Cajamarca 1 kg,Café,1,Origines,1,1 kg,1.000,Pérou,32.38,2017-03-01,https://example.com/fr/produits/004132
+9,004141,Kenya Nyeri 250 g,Café,1,Origines,1,250 g,0.250,Kenya,12.21,2025-09-01,https://example.com/fr/produits/004141
+10,004142,Kenya Nyeri 1 kg,Café,1,Origines,1,1 kg,1.000,Kenya,42.46,2025-09-01,https://example.com/fr/produits/004142
+11,004151,Honduras Marcala 250 g,Café,1,Origines,1,250 g,0.250,Honduras,9.45,2017-03-01,https://example.com/fr/produits/004151
+12,004152,Honduras Marcala 1 kg,Café,1,Origines,1,1 kg,1.000,Honduras,31.85,2017-03-01,https://example.com/fr/produits/004152
+13,004201,Assemblage Maison 250 g,Café,1,Assemblages,2,250 g,0.250,,8.39,2016-09-01,https://example.com/fr/produits/004201
+14,004202,Assemblage Maison 1 kg,Café,1,Assemblages,2,1 kg,1.000,,27.60,2016-09-01,https://example.com/fr/produits/004202
+15,004211,Assemblage Espresso 250 g,Café,1,Assemblages,2,250 g,0.250,,8.71,2016-09-01,https://example.com/fr/produits/004211
+16,004212,Assemblage Espresso 1 kg,Café,1,Assemblages,2,1 kg,1.000,,28.66,2016-09-01,https://example.com/fr/produits/004212
+17,004221,Assemblage Matin 250 g,Café,1,Assemblages,2,250 g,0.250,,8.07,2016-09-01,https://example.com/fr/produits/004221
+18,004222,Assemblage Matin 1 kg,Café,1,Assemblages,2,1 kg,1.000,,26.54,2016-09-01,https://example.com/fr/produits/004222
+19,004301,Décaféiné Colombie 250 g,Café,1,Décaféinés,3,250 g,0.250,,9.98,2018-02-01,https://example.com/fr/produits/004301
+20,004302,Décaféiné Colombie 1 kg,Café,1,Décaféinés,3,1 kg,1.000,,33.97,2018-02-01,https://example.com/fr/produits/004302
+21,005101,"Capsules Espresso, boîte de 10",Capsules,2,Capsules,4,Boîte de 10,0.055,,4.46,2021-10-01,https://example.com/fr/produits/005101
+22,005102,"Capsules Lungo, boîte de 10",Capsules,2,Capsules,4,Boîte de 10,0.055,,4.46,2021-10-01,https://example.com/fr/produits/005102
+23,005103,"Capsules Décaféiné, boîte de 10",Capsules,2,Capsules,4,Boîte de 10,0.055,,4.67,2021-10-01,https://example.com/fr/produits/005103
+24,005110,"Capsules Espresso, boîte de 100",Capsules,2,Capsules,4,Boîte de 100,0.550,,40.34,2021-10-01,https://example.com/fr/produits/005110
+25,006101,Coffret Découverte,Coffrets,3,Coffrets,5,Coffret,0.750,,30.79,2019-11-01,https://example.com/fr/produits/006101
+26,006102,Coffret Origines,Coffrets,3,Coffrets,5,Coffret,1.000,,44.59,2019-11-01,https://example.com/fr/produits/006102
+27,006103,Coffret des Fêtes,Coffrets,3,Coffrets,5,Coffret,0.750,,52.02,2019-11-01,https://example.com/fr/produits/006103
+28,007101,Cafetière à piston,Accessoires,4,Préparation,6,À l'unité,0.000,,32.67,2018-10-01,https://example.com/fr/produits/007101
+29,007102,Porte-filtre et carafe,Accessoires,4,Préparation,6,À l'unité,0.000,,27.07,2018-10-01,https://example.com/fr/produits/007102
+30,007103,Balance de précision,Accessoires,4,Préparation,6,À l'unité,0.000,,36.40,2018-10-01,https://example.com/fr/produits/007103
+31,007104,"Filtres papier, paquet de 100",Accessoires,4,Préparation,6,À l'unité,0.000,,5.60,2018-10-01,https://example.com/fr/produits/007104
+32,007201,Moulin manuel,Accessoires,4,Moulins,7,À l'unité,0.000,,55.07,2018-10-01,https://example.com/fr/produits/007201
+33,007202,Moulin électrique,Accessoires,4,Moulins,7,À l'unité,0.000,,176.40,2018-10-01,https://example.com/fr/produits/007202

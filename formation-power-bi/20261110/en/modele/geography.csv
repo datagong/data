@@ -1,0 +1,33 @@
+Location ID,City,Department code,Region,Country,Country code
+1,Lyon,69,Auvergne-Rhône-Alpes,France,FR
+2,Annecy,74,Auvergne-Rhône-Alpes,France,FR
+3,Grenoble,38,Auvergne-Rhône-Alpes,France,FR
+4,Saint-Étienne,42,Auvergne-Rhône-Alpes,France,FR
+5,Chambéry,73,Auvergne-Rhône-Alpes,France,FR
+6,Valence,26,Auvergne-Rhône-Alpes,France,FR
+7,Clermont-Ferrand,63,Auvergne-Rhône-Alpes,France,FR
+8,Bourg-en-Bresse,01,Auvergne-Rhône-Alpes,France,FR
+9,Aubenas,07,Auvergne-Rhône-Alpes,France,FR
+10,Paris,75,Île-de-France,France,FR
+11,Boulogne-Billancourt,92,Île-de-France,France,FR
+12,Versailles,78,Île-de-France,France,FR
+13,Marseille,13,Provence-Alpes-Côte d'Azur,France,FR
+14,Nice,06,Provence-Alpes-Côte d'Azur,France,FR
+15,Aix-en-Provence,13,Provence-Alpes-Côte d'Azur,France,FR
+16,Avignon,84,Provence-Alpes-Côte d'Azur,France,FR
+17,Toulouse,31,Occitanie,France,FR
+18,Montpellier,34,Occitanie,France,FR
+19,Bordeaux,33,Nouvelle-Aquitaine,France,FR
+20,Nantes,44,Pays de la Loire,France,FR
+21,Rennes,35,Bretagne,France,FR
+22,Lille,59,Hauts-de-France,France,FR
+23,Strasbourg,67,Grand Est,France,FR
+24,Dijon,21,Bourgogne-Franche-Comté,France,FR
+25,Besançon,25,Bourgogne-Franche-Comté,France,FR
+26,Rouen,76,Normandie,France,FR
+27,Brussels,,Brussels-Capital,Belgium,BE
+28,Liège,,Wallonia,Belgium,BE
+29,Geneva,,Geneva,Switzerland,CH
+30,Lausanne,,Vaud,Switzerland,CH
+31,Luxembourg,,Luxembourg,Luxembourg,LU
+32,Freiburg,,Baden-Württemberg,Germany,DE
