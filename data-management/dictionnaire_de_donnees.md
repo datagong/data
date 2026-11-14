@@ -2,7 +2,11 @@
 
 Maison Pivoine est une enseigne fictive de vente en ligne d'articles pour la maison. Le jeu couvre les commandes passées du 1ᵉʳ janvier 2024 au 30 juin 2026. Toutes les données sont synthétiques : aucune personne réelle n'y figure.
 
-Chaque table existe en deux versions, rangées dans deux dossiers : `clean/` (données de référence) et `raw/` (export brut, à fiabiliser).
+Chaque table existe en trois versions, rangées dans trois dossiers :
+
+- `clean/` : les données de référence, sans défaut ;
+- `raw/` : l'export brut, tel qu'il sort des outils de l'entreprise ;
+- `typed/` : l'export brut après correction des types, des dates et des libellés. Les doublons, les valeurs manquantes, les valeurs aberrantes et les clés sans correspondance y sont toujours présents.
 
 ## Relations entre les tables
 
