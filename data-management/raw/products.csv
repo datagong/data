@@ -1,0 +1,262 @@
+product_id,product_name,category,subcategory,brand,unit_price,unit_cost,launch_date
+P0001,Assiette plate céramique,cuisine,Art de la table,Casa Lume,"23,90 €",,13/09/2021
+P0002,Assiette plate grès,Cuisine,Art de la table,Kori,"9,90 €",5.92,14/08/2024
+P0003,Assiette plate porcelaine,Cuisine,Art de la table,Kori,"22,90 €",8.98,07/07/2021
+P0004,Assiette plate verre,Cuisine,Art de la table,Kori,"7,90 €",3.99,11/10/2021
+P0005,Bol céramique, Cuisine,Art de la table,Maison Brune,"18,90 €",12.63,13/09/2025
+P0006,Bol grès,Cuisine,Art de la table,Pivoine,"19,90 €",11.37,29/08/2024
+P0007,Bol porcelaine,Cuisine,Art de la table,Pivoine,"21,90 €",10.32,03/04/2022
+P0008,Bol verre,Cuisine,Art de la table,Maison Brune,"11,90 €",5.76,17/02/2024
+P0009,Carafe céramique,Cuisine,Art de la table,Verdello,"8,90 €",4.56,24/11/2022
+P0010,  Carafe grès ,  cuisine,Art de la table,Verdello,"15,90 €",6.24,30/10/2023
+P0011,Carafe porcelaine,Cuisine,Art de la table,Atelier Nord,"46,90 €",20.31,21/01/2022
+P0012,Carafe verre,Cuisine ,Art de la table,Atelier Nord,"6,90 €",4.69,19/04/2023
+P0013,Lot de 6 verres céramique,Cuisine,Art de la table,Maison Brune,"3,90 €",1.57,15/11/2023
+P0014,Lot de 6 verres grès,Cuisine,Art de la table,Atelier Nord,"31,90 €",21.07,30/06/2024
+P0015,Lot de 6 verres porcelaine,Cuisine,Art de la table,Atelier Nord,"10,90 €",6.18,18/09/2021
+P0016,Lot de 6 verres verre,Cuisine,Art de la table,Solène,"21,90 €",9.82,06/04/2024
+P0017,Mug céramique,Cuisine,Art de la table,,"11,90 €",7.28,05/04/2025
+P0018,Mug grès,Cuisine,Art de la table,Atelier Nord,"12,90 €",8.77,28/03/2023
+P0019,Mug porcelaine,Cuisine ,Art de la table,Solène,"16,90 €",6.47,24/10/2024
+P0020,Mug verre,Cuisine,Art de la table,Atelier Nord,"13,90 €",5.96,25/02/2025
+P0021,Saladier céramique,Cuisine,Art de la table,Verdello,"13,90 €",8.16,12/02/2022
+P0022,Saladier grès,Cuisine,Art de la table,Solène,"7,90 €",3.49,29/05/2024
+P0023,Saladier porcelaine,Cuisine,Art de la table,Maison Brune,"14,90 €",7.04,20/01/2025
+P0024,Saladier verre,Cuisine,Art de la table,Atelier Nord,"8,90 €",3.76,10/11/2024
+P0025,Casserole antiadhésive,Cuisine ,Cuisson,,"44,90 €",30.46,24/10/2021
+P0026,Casserole cuivre,Cuisine,Cuisson,Pivoine,"54,90 €",34.0,10/07/2025
+P0027,Casserole fonte,Cuisine,Cuisson,Kori,"95,90 €",43.29,10/12/2023
+P0028,Casserole inox,Cuisine,Cuisson,Verdello,"51,90 €",20.51,15/08/2025
+P0029,  Cocotte antiadhésive ,Cuisine,Cuisson,Pivoine,"49,90 €",28.18,08/09/2025
+P0030,Cocotte cuivre,Cuisine ,Cuisson,Verdello,"58,90 €",33.77,22/12/2025
+P0031,Cocotte fonte,Cuisine,Cuisson,Solène,"58,90 €",23.43,20/05/2021
+P0032,Cocotte inox,Cuisine,Cuisson,Pivoine,"43,90 €",28.25,19/12/2021
+P0033,Faitout antiadhésive,Cuisine,Cuisson,Pivoine,"43,90 €",17.04,11/01/2025
+P0034,Faitout cuivre, Cuisine,Cuisson,Pivoine,"56,90 €",27.37,15/07/2023
+P0035,Faitout fonte,  cuisine,Cuisson,Casa Lume,"30,90 €",12.02,05/02/2022
+P0036,Faitout inox,CUISINE,Cuisson,Pivoine,"63,90 €",26.17,18/11/2025
+P0037,Poêle antiadhésive,Cuisine,Cuisson,Casa Lume,"50,90 €",28.44,07/01/2021
+P0038,Poêle cuivre,Cuisine,Cuisson,Maison Brune,"118,90 €",56.12,20/09/2024
+P0039,Poêle fonte,Cuisine,Cuisson,Casa Lume,"50,90 €",30.84,20/02/2024
+P0040,Poêle inox,Cuisine,Cuisson,Pivoine,"49,90 €",29.62,21/06/2024
+P0041,Sauteuse antiadhésive,Cuisine,Cuisson,,"40,90 €",25.31,10/07/2023
+P0042,Sauteuse cuivre,Cuisine,Cuisson,Maison Brune,"25,90 €",10.71,02/02/2024
+P0043,Sauteuse fonte,Cuisine,Cuisson,Solène,"22,90 €",10.93,13/01/2024
+P0044,Sauteuse inox,Cuisine,Cuisson,Solène,"41,90 €",19.17,26/06/2024
+P0045,Wok antiadhésive,Cuisine ,Cuisson,Maison Brune,"148,90 €",66.41,26/11/2023
+P0046,Wok cuivre,Cuisine,Cuisson,Casa Lume,"47,90 €",21.61,30/09/2023
+P0047,Wok fonte,Cuisine,Cuisson,Pivoine,"59,90 €",,12/09/2024
+P0048,Wok inox,Cuisine,Cuisson,Casa Lume,"43,90 €",24.83,11/03/2023
+P0049,Couteau de chef bambou,Cuisine,Ustensiles,Maison Brune,"18,90 €",7.34,05/05/2022
+P0050,Couteau de chef hêtre,Cuisine,Ustensiles,Casa Lume,"22,90 €",13.71,17/06/2024
+P0051,Couteau de chef inox,Cuisine,Ustensiles,Atelier Nord,"10,90 €",7.21,06/04/2022
+P0052,Couteau de chef silicone,Cuisine,Ustensiles,Kori,"13,90 €",6.41,18/12/2024
+P0053,Fouet bambou,cuisine,Ustensiles,Maison Brune,"15,90 €",8.93,30/03/2024
+P0054,Fouet hêtre,Cuisine,Ustensiles,Atelier Nord,"16,90 €",8.36,11/01/2023
+P0055,Fouet inox,Cuisine,Ustensiles,Pivoine,"13,90 €",7.11,14/10/2022
+P0056,Fouet silicone, Cuisine,Ustensiles,Pivoine,"18,90 €",11.3,30/12/2022
+P0057,Louche bambou,Cuisine,Ustensiles,Kori,"7,90 €",3.55,15/08/2021
+P0058,Louche hêtre, Cuisine,Ustensiles,Verdello,"19,90 €",8.26,25/04/2022
+P0059,Louche inox,Cuisine,Ustensiles,Atelier Nord,"11,90 €",6.57,15/11/2025
+P0060,Louche silicone,cuisine,Ustensiles,Casa Lume,"24,90 €",11.44,03/06/2024
+P0061,Planche à découper bambou,Cuisine,Ustensiles,Casa Lume,"10,90 €",5.52,19/02/2023
+P0062,Planche à découper hêtre,Cuisine,Ustensiles,Casa Lume,"16,90 €",10.96,04/05/2024
+P0063,  Planche à découper inox ,  cuisine,Ustensiles,Kori,"18,90 €",12.77,08/06/2022
+P0064,Planche à découper silicone,Cuisine,Ustensiles,Kori,"14,90 €",7.62,31/03/2024
+P0065,Râpe bambou,Cuisine,Ustensiles,Verdello,"12,90 €",5.65,21/11/2025
+P0066,  Râpe hêtre ,Cuisine,Ustensiles,Verdello,"25,90 €",12.97,26/03/2023
+P0067,Râpe inox,Cuisine,Ustensiles,Maison Brune,"19,90 €",8.93,10/03/2022
+P0068,Râpe silicone, Cuisine,Ustensiles,Kori,"18,90 €",10.42,21/08/2022
+P0069,Spatule bambou,Cuisine,Ustensiles,Solène,"21,90 €",12.52,02/11/2025
+P0070,Spatule hêtre,Cuisine,Ustensiles,Solène,"26,90 €",12.83,14/02/2025
+P0071,  Spatule inox , Cuisine,Ustensiles,Atelier Nord,"12,90 €",7.14,01/05/2025
+P0072,  Spatule silicone ,Cuisine,Ustensiles,Kori,"11,90 €",4.96,03/07/2022
+P0073,Affiche encadrée chêne,décoration,Mural,Verdello,"26,90 €",16.35,15/09/2023
+P0074,  Affiche encadrée laiton ,Décoration,Mural,Pivoine,"31,90 €",13.48,13/11/2025
+P0075,Affiche encadrée noir mat,Décoration ,Mural,Atelier Nord,"42,90 €",,24/10/2025
+P0076,Affiche encadrée rotin,décoration,Mural,Maison Brune,"26,90 €",11.32,26/06/2021
+P0077,Cadre photo chêne,Decoration,Mural,Pivoine,"58,90 €",32.7,13/09/2024
+P0078,Cadre photo laiton,Décoration,Mural,Verdello,"36,90 €",20.83,05/01/2021
+P0079,Cadre photo noir mat,Décoration,Mural,Casa Lume,"26,90 €",17.08,03/03/2021
+P0080,Cadre photo rotin, Décoration,Mural,Maison Brune,"23,90 €",16.24,29/10/2024
+P0081,Horloge murale chêne,Décoration,Mural,,"15,90 €",8.01,28/07/2024
+P0082,Horloge murale laiton,Décoration,Mural,Pivoine,"11,90 €",7.81,29/10/2025
+P0083,Horloge murale noir mat,Décoration,Mural,Maison Brune,"42,90 €",27.92,15/11/2024
+P0084,Horloge murale rotin,Décoration,Mural,Pivoine,"25,90 €",11.96,16/06/2022
+P0085,Miroir chêne,Décoration,Mural,Verdello,"43,90 €",22.61,06/10/2025
+P0086,Miroir laiton,Décoration,Mural,Casa Lume,"51,90 €",19.79,30/01/2025
+P0087,Miroir noir mat,DÉCORATION,Mural,Maison Brune,"11,90 €",5.91,03/04/2023
+P0088,Miroir rotin,décoration,Mural,Pivoine,"13,90 €",6.22,08/08/2022
+P0089,  Étagère murale chêne ,  décoration,Mural,Maison Brune,"18,90 €",10.58,25/01/2023
+P0090,Étagère murale laiton,Décoration,Mural,Solène,"60,90 €",30.54,04/04/2024
+P0091,Étagère murale noir mat,Décoration,Mural,Maison Brune,"47,90 €",19.3,19/07/2024
+P0092,  Étagère murale rotin ,Décoration,Mural,Casa Lume,"93,90 €",46.43,31/05/2024
+P0093,Bougie parfumée blanc,DÉCORATION,Objets,Atelier Nord,"10,90 €",4.87,20/06/2024
+P0094,Bougie parfumée sauge,décoration,Objets,Solène,"5,90 €",4.01,11/10/2021
+P0095,Bougie parfumée terracotta,décoration,Objets,Kori,"9,90 €",3.92,09/06/2025
+P0096,Bougie parfumée verre fumé,décoration,Objets,Pivoine,"9,90 €",5.08,19/11/2023
+P0097,Corbeille blanc,Décoration,Objets,Maison Brune,"9,90 €",4.14,14/04/2024
+P0098,Corbeille sauge,Décoration,Objets,Atelier Nord,"18,90 €",11.18,09/12/2022
+P0099,  Corbeille terracotta ,Décoration,Objets,Maison Brune,"22,90 €",,17/12/2023
+P0100,  Corbeille verre fumé ,  décoration,Objets,Atelier Nord,"19,90 €",9.95,22/10/2024
+P0101,Photophore blanc,Décoration,Objets,Maison Brune,"18,90 €",10.75,01/04/2022
+P0102,Photophore sauge,Décoration,Objets,Atelier Nord,"10,90 €",,15/07/2025
+P0103,Photophore terracotta,Décoration,Objets,Atelier Nord,"15,90 €",8.68,18/08/2023
+P0104,Photophore verre fumé,Décoration,Objets,,"8,90 €",3.51,08/12/2024
+P0105,Statuette blanc,Decoration,Objets,Atelier Nord,"25,90 €",16.69,22/03/2021
+P0106,Statuette sauge,Décoration,Objets,Solène,"19,90 €",10.23,10/04/2022
+P0107,Statuette terracotta,Décoration,Objets,Solène,"11,90 €",4.79,29/01/2021
+P0108,Statuette verre fumé,Décoration,Objets,Pivoine,"20,90 €",12.97,02/05/2022
+P0109,Vase blanc,Décoration,Objets,Atelier Nord,"27,90 €",13.44,07/01/2022
+P0110,Vase sauge,Decoration,Objets,Verdello,"18,90 €",8.33,21/03/2024
+P0111,Vase terracotta, Décoration,Objets,Verdello,"28,90 €",11.49,11/11/2021
+P0112,Vase verre fumé,Décoration,Objets,Casa Lume,"9,90 €",5.89,24/05/2021
+P0113,Tapis berbère bleu nuit,  décoration,Tapis,Solène,"35,90 €",16.8,06/12/2022
+P0114,Tapis berbère gris,Décoration,Tapis,Kori,"68,90 €",29.41,20/07/2022
+P0115,Tapis berbère terracotta,Décoration,Tapis,Pivoine,"70,90 €",40.82,15/12/2023
+P0116,  Tapis berbère écru ,Décoration,Tapis,Kori,"85,90 €",42.96,16/12/2023
+P0117,Tapis d'entrée bleu nuit,Décoration,Tapis,Casa Lume,"122,90 €",77.71,16/03/2025
+P0118,Tapis d'entrée gris,Décoration,Tapis,Maison Brune,"65,90 €",41.36,25/04/2024
+P0119,Tapis d'entrée terracotta,Décoration,Tapis,Pivoine,"60,90 €",33.33,04/11/2024
+P0120,Tapis d'entrée écru,Décoration,Tapis,Casa Lume,"39,90 €",17.91,26/04/2022
+P0121,Tapis de couloir bleu nuit,Décoration,Tapis,Kori,"58,90 €",23.19,13/02/2025
+P0122,Tapis de couloir gris,Décoration,Tapis,Maison Brune,"52,90 €",29.53,20/12/2025
+P0123,Tapis de couloir terracotta,Décoration,Tapis,Pivoine,"66,90 €",42.29,09/06/2022
+P0124,Tapis de couloir écru,DÉCORATION,Tapis,Maison Brune,"72,90 €",48.47,07/12/2021
+P0125,Tapis rond bleu nuit,Décoration,Tapis,Casa Lume,"68,90 €",39.14,02/03/2021
+P0126,Tapis rond gris,décoration,Tapis,Atelier Nord,"74,90 €",43.81,07/07/2021
+P0127,Tapis rond terracotta,Décoration,Tapis,Casa Lume,"106,90 €",66.87,07/09/2024
+P0128,Tapis rond écru,Décoration,Tapis,Casa Lume,"55,90 €",29.79,13/10/2023
+P0129,Banc acacia,Jardin,Mobilier extérieur,Solène,"109,90 €",62.52,10/02/2024
+P0130,Banc aluminium,Jardin ,Mobilier extérieur,Casa Lume,"62,90 €",34.94,26/01/2023
+P0131,Banc résine tressée,Jardin,Mobilier extérieur,Solène,"104,90 €",57.33,21/11/2022
+P0132,Chaise de jardin acacia,Jardin,Mobilier extérieur,Casa Lume,"141,90 €",56.77,07/12/2025
+P0133,Chaise de jardin aluminium,Jardin,Mobilier extérieur,Atelier Nord,"85,90 €",56.95,11/10/2022
+P0134,Chaise de jardin résine tressée,Jardin,Mobilier extérieur,Verdello,"99,90 €",49.86,11/01/2022
+P0135,  Table basse d'extérieur acacia ,Jardin,Mobilier extérieur,Pivoine,"110,90 €",66.11,17/10/2023
+P0136,Table basse d'extérieur aluminium,Jardin,Mobilier extérieur,Casa Lume,"111,90 €",43.68,22/10/2023
+P0137,Table basse d'extérieur résine tressée,Jardin,Mobilier extérieur,Casa Lume,"156,90 €",100.1,18/01/2025
+P0138,Transat acacia,Jardin,Mobilier extérieur,Atelier Nord,"79,90 €",45.97,06/07/2024
+P0139,Transat aluminium,Jardin,Mobilier extérieur,Pivoine,"92,90 €",41.04,04/03/2024
+P0140,Transat résine tressée,Jardin,Mobilier extérieur,Pivoine,"117,90 €",48.31,22/07/2022
+P0141,Arrosoir anthracite,Jardin,Plantation,,"19,90 €",9.29,05/06/2023
+P0142,Arrosoir rotin,Jardin,Plantation,Solène,"23,90 €",13.69,05/06/2023
+P0143,Arrosoir terre cuite,Jardin,Plantation,Kori,"23,90 €",10.51,17/04/2021
+P0144,Arrosoir zinc,Jardin,Plantation,Atelier Nord,"16,90 €",9.07,02/10/2021
+P0145,Bac à plantes anthracite,Jardin,Plantation,Kori,"20,90 €",10.37,17/04/2024
+P0146,Bac à plantes rotin,Jardin,Plantation,Casa Lume,"23,90 €",13.06,02/03/2025
+P0147,Bac à plantes terre cuite,Jardin,Plantation,Solène,"53,90 €",30.89,17/12/2023
+P0148,Bac à plantes zinc,Jardin,Plantation,Maison Brune,"29,90 €",19.68,17/04/2024
+P0149,Cache-pot anthracite,Jardin ,Plantation,Solène,"37,90 €",20.67,24/12/2023
+P0150,Cache-pot rotin,Jardin,Plantation,Kori,"19,90 €",13.47,14/07/2025
+P0151,  Cache-pot terre cuite ,Jardin,Plantation,Atelier Nord,"32,90 €",15.38,05/12/2024
+P0152,Cache-pot zinc,Jardin,Plantation,Atelier Nord,"34,90 €",14.74,12/01/2024
+P0153,Jardinière anthracite,Jardin,Plantation,Solène,"22,90 €",10.02,15/08/2022
+P0154,Jardinière rotin,Jardin,Plantation,Pivoine,"21,90 €",14.65,15/08/2023
+P0155,Jardinière terre cuite,Jardin,Plantation,Kori,"40,90 €",22.15,25/03/2022
+P0156,Jardinière zinc,Jardin,Plantation,Casa Lume,"15,90 €",8.04,29/04/2021
+P0157,Pot de fleurs anthracite,Jardin,Plantation,Verdello,"20,90 €",8.21,30/04/2021
+P0158,Pot de fleurs rotin,Jardin,Plantation,Kori,"13,90 €",6.47,17/08/2023
+P0159,Pot de fleurs terre cuite,Jardin,Plantation,Casa Lume,"28,90 €",17.23,27/02/2021
+P0160,Pot de fleurs zinc,JARDIN,Plantation,Casa Lume,"39,90 €",18.77,17/06/2025
+P0161,Drap de bain coton bio,Linge de maison,Bain,Kori,"33,90 €",16.21,01/08/2024
+P0162,Drap de bain nid d'abeille,Linge de maison,Bain,Casa Lume,"19,90 €",10.18,10/06/2022
+P0163,  Drap de bain éponge ,Linge de maison,Bain,,"17,90 €",10.8,25/11/2025
+P0164,Peignoir coton bio,Linge de maison,Bain,Kori,"14,90 €",7.8,12/11/2023
+P0165,Peignoir nid d'abeille,Linge de maison ,Bain,Kori,"16,90 €",8.83,08/07/2024
+P0166,Peignoir éponge,Linge de maison,Bain,Solène,"32,90 €",16.95,10/02/2024
+P0167,Serviette de bain coton bio, Linge de maison,Bain,Casa Lume,"16,90 €",7.06,15/04/2021
+P0168,Serviette de bain nid d'abeille,Linge de maison,Bain,,"12,90 €",8.58,27/01/2023
+P0169,Serviette de bain éponge,Linge de maison,Bain,Atelier Nord,"25,90 €",17.37,30/12/2023
+P0170,Tapis de bain coton bio,Linge de maison,Bain,Pivoine,"20,90 €",10.79,29/01/2024
+P0171,Tapis de bain nid d'abeille,linge de maison,Bain,Casa Lume,"10,90 €",4.97,28/04/2023
+P0172,Tapis de bain éponge,Linge de maison,Bain,Verdello,"8,90 €",3.38,30/05/2024
+P0173,Couverture coton bio,Linge de maison,Lit,Pivoine,"14,90 €",9.93,22/07/2023
+P0174,Couverture gaze de coton,Linge de maison,Lit,Solène,"31,90 €",13.05,09/08/2025
+P0175,  Couverture lin lavé ,Linge de maison,Lit,Solène,"22,90 €",14.81,11/07/2024
+P0176,Couverture percale,Linge de maison,Lit,Verdello,"36,90 €",19.12,18/08/2025
+P0177,Drap housse coton bio,Linge de maison,Lit,Verdello,"53,90 €",22.94,07/04/2024
+P0178,Drap housse gaze de coton,LINGE DE MAISON,Lit,Solène,"49,90 €",22.62,01/03/2023
+P0179,Drap housse lin lavé,Linge de maison,Lit,Pivoine,"26,90 €",15.47,13/03/2024
+P0180,Drap housse percale,Linge de maison,Lit,Verdello,"41,90 €",19.94,12/02/2023
+P0181,Housse de couette coton bio,Linge de maison,Lit,Verdello,"31,90 €",18.71,27/01/2021
+P0182,Housse de couette gaze de coton,  linge de maison,Lit,Verdello,"56,90 €",38.47,12/04/2021
+P0183,Housse de couette lin lavé,Linge de maison,Lit,Atelier Nord,"12,90 €",7.68,15/11/2023
+P0184,Housse de couette percale,Linge de maison,Lit,Kori,"38,90 €",25.11,01/09/2025
+P0185,Plaid coton bio,Linge de maison,Lit,Verdello,"48,90 €",25.64,09/06/2023
+P0186,Plaid gaze de coton,Linge de maison,Lit,Pivoine,"20,90 €",12.34,24/01/2024
+P0187,Plaid lin lavé,Linge de maison,Lit,Solène,"23,90 €",9.74,05/08/2021
+P0188,Plaid percale,Linge de maison,Lit,,"37,90 €",17.48,10/10/2022
+P0189,Taie d'oreiller coton bio,Linge de maison,Lit,Atelier Nord,"35,90 €",20.22,20/05/2021
+P0190,Taie d'oreiller gaze de coton,Linge de maison,Lit,Verdello,"24,90 €",12.78,02/11/2022
+P0191,Taie d'oreiller lin lavé,Linge de maison,Lit,Casa Lume,"22,90 €",,18/09/2023
+P0192,Taie d'oreiller percale,Linge de maison,Lit,Atelier Nord,"22,90 €",9.44,08/04/2021
+P0193,Chemin de table coton,Linge de maison,Table,Maison Brune,"15,90 €",8.45,07/08/2022
+P0194,Chemin de table enduit,Linge de maison,Table,,"18,90 €",10.73,23/12/2024
+P0195,Chemin de table lin,Linge de maison,Table,Verdello,"11,90 €",7.07,24/03/2024
+P0196,Lot de 4 serviettes coton,Linge de maison,Table,Kori,"9,90 €",5.57,01/04/2022
+P0197,Lot de 4 serviettes enduit,Linge de maison,Table,Solène,"11,90 €",6.52,22/05/2023
+P0198,Lot de 4 serviettes lin,Linge de maison,Table,Casa Lume,"14,90 €",6.48,24/07/2021
+P0199,Nappe coton,LINGE DE MAISON,Table,Maison Brune,"17,90 €",9.87,19/09/2021
+P0200,Nappe enduit,linge de maison,Table,Maison Brune,"13,90 €",8.22,08/10/2022
+P0201,Nappe lin,Linge de maison,Table,,"16,90 €",9.16,08/12/2025
+P0202,Torchon coton,Linge de maison,Table,Casa Lume,"20,90 €",13.35,02/06/2021
+P0203,Torchon enduit,Linge de maison,Table,Verdello,"32,90 €",20.19,04/03/2025
+P0204,Torchon lin,Linge de maison ,Table,Verdello,"43,90 €",25.55,30/08/2024
+P0205,Applique laiton,Luminaires,Lampes,Kori,"251,90 €",167.18,25/05/2023
+P0206,Applique noir mat,Luminaires,Lampes,Verdello,"34,90 €",20.73,29/05/2024
+P0207,Applique opaline,Luminaires,Lampes,,"56,90 €",24.35,07/06/2025
+P0208,Applique rotin,Luminaires,Lampes,Pivoine,"68,90 €",34.06,10/04/2021
+P0209,  Lampadaire laiton ,Luminaires,Lampes,Atelier Nord,"46,90 €",31.36,19/05/2022
+P0210,Lampadaire noir mat,Luminaires,Lampes,Kori,"30,90 €",12.34,27/01/2022
+P0211,Lampadaire opaline,luminaires,Lampes,Maison Brune,"92,90 €",35.67,02/01/2024
+P0212,Lampadaire rotin,Luminaires,Lampes,Solène,"67,90 €",43.19,13/09/2022
+P0213,Lampe de chevet laiton,Luminaires,Lampes,Atelier Nord,"31,90 €",20.4,21/01/2025
+P0214,Lampe de chevet noir mat,Luminaires,Lampes,Kori,"58,90 €",35.15,01/11/2021
+P0215,Lampe de chevet opaline,Luminaires,Lampes,Atelier Nord,"59,90 €",24.19,08/11/2023
+P0216,Lampe de chevet rotin,Luminaires,Lampes,Atelier Nord,"139,90 €",91.0,27/08/2024
+P0217,Lampe à poser laiton,Luminaires,Lampes,Solène,"29,90 €",14.04,22/01/2022
+P0218,  Lampe à poser noir mat ,Luminaires,Lampes,Pivoine,"33,90 €",16.37,24/08/2024
+P0219,Lampe à poser opaline,Luminaires,Lampes,Kori,"116,90 €",56.99,25/11/2021
+P0220,Lampe à poser rotin,Luminaires,Lampes,,"44,90 €",29.78,17/12/2022
+P0221,Guirlande lumineuse bambou,Luminaires,Suspensions,Casa Lume,"52,90 €",25.79,05/02/2023
+P0222,Guirlande lumineuse métal doré,Luminaires,Suspensions,Kori,"19,90 €",9.59,18/07/2024
+P0223,Guirlande lumineuse verre,Luminaires,Suspensions,,"66,90 €",31.39,28/05/2024
+P0224,Plafonnier bambou,Luminaires,Suspensions,Atelier Nord,"77,90 €",51.08,19/11/2024
+P0225,Plafonnier métal doré,Luminaires,Suspensions,,"55,90 €",,21/02/2022
+P0226,  Plafonnier verre ,Luminaires,Suspensions,Atelier Nord,"70,90 €",40.84,29/11/2022
+P0227,Suspension bambou,Luminaires,Suspensions,Atelier Nord,"52,90 €",30.89,31/03/2022
+P0228,Suspension métal doré,Luminaires,Suspensions,Maison Brune,"70,90 €",39.96,12/11/2025
+P0229,Suspension verre,Luminaires,Suspensions,Maison Brune,"27,90 €",14.88,16/08/2022
+P0230,Bac empilable bambou,Rangement,Boîtes,Maison Brune,"6,90 €",3.8,11/02/2021
+P0231,Bac empilable feutrine,Rangement,Boîtes,Pivoine,"23,90 €",11.58,21/02/2022
+P0232,Bac empilable métal,Rangement,Boîtes,Solène,"23,90 €",11.5,27/01/2022
+P0233,Bac empilable osier,Rangement,Boîtes,Casa Lume,"13,90 €",5.72,27/08/2022
+P0234,Boîte de rangement bambou,Rangement,Boîtes,Atelier Nord,"19,90 €",,13/12/2024
+P0235,Boîte de rangement feutrine,Rangement ,Boîtes,Solène,"13,90 €",7.17,03/01/2025
+P0236,Boîte de rangement métal,Rangement,Boîtes,Solène,"15,90 €",7.95,28/11/2022
+P0237,Boîte de rangement osier,  rangement,Boîtes,Casa Lume,"13,90 €",7.87,23/08/2024
+P0238,Caisse bambou,Rangement,Boîtes,Pivoine,"26,90 €",17.57,25/01/2022
+P0239,Caisse feutrine,Rangement,Boîtes,Casa Lume,"14,90 €",8.42,10/11/2024
+P0240,Caisse métal,Rangement,Boîtes,Casa Lume,"16,90 €",11.41,05/11/2023
+P0241,Caisse osier,Rangement,Boîtes,Kori,"14,90 €",5.89,18/01/2024
+P0242,  Panier bambou ,Rangement,Boîtes,Casa Lume,"14,90 €",8.53,14/08/2023
+P0243,Panier feutrine,Rangement,Boîtes,Casa Lume,"19,90 €",8.44,15/03/2021
+P0244,Panier métal,Rangement,Boîtes,Maison Brune,"23,90 €",,06/06/2022
+P0245,Panier osier,Rangement,Boîtes,Pivoine,"8,90 €",3.53,05/08/2023
+P0246,Desserte blanc,Rangement,Meubles d'appoint,Verdello,"71,90 €",34.83,25/08/2021
+P0247,Desserte chêne,Rangement,Meubles d'appoint,,"31,90 €",19.42,24/09/2024
+P0248,Desserte métal noir,RANGEMENT,Meubles d'appoint,Pivoine,"62,90 €",27.98,14/10/2024
+P0249,Desserte pin,Rangement,Meubles d'appoint,Maison Brune,"63,90 €",37.85,17/07/2024
+P0250,  Meuble à chaussures blanc , Rangement,Meubles d'appoint,Pivoine,"40,90 €",19.23,19/11/2021
+P0251,Meuble à chaussures chêne,Rangement,Meubles d'appoint,Pivoine,"52,90 €",28.89,01/05/2025
+P0252,Meuble à chaussures métal noir,Rangement,Meubles d'appoint,Solène,"57,90 €",35.11,23/01/2022
+P0253,Meuble à chaussures pin,RANGEMENT,Meubles d'appoint,Atelier Nord,"93,90 €",53.23,25/10/2025
+P0254,Porte-manteau blanc,Rangement,Meubles d'appoint,Pivoine,"54,90 €",36.83,21/11/2025
+P0255,Porte-manteau chêne,Rangement,Meubles d'appoint,Pivoine,"53,90 €",34.5,28/06/2022
+P0256,Porte-manteau métal noir,Rangement,Meubles d'appoint,Atelier Nord,"28,90 €",12.74,24/02/2024
+P0257,Porte-manteau pin,Rangement,Meubles d'appoint,Casa Lume,"29,90 €",18.0,01/09/2024
+P0258,Étagère blanc,Rangement,Meubles d'appoint,Casa Lume,"66,90 €",37.07,04/05/2024
+P0259,Étagère chêne,Rangement ,Meubles d'appoint,Verdello,"41,90 €",17.72,10/06/2022
+P0260,Étagère métal noir,Rangement,Meubles d'appoint,Kori,"94,90 €",40.42,25/11/2021
+P0261,Étagère pin,Rangement,Meubles d'appoint,Casa Lume,"60,90 €",,25/01/2025

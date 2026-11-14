@@ -1,0 +1,262 @@
+product_id,product_name,category,subcategory,brand,unit_price,unit_cost,launch_date
+P0001,Assiette plate céramique,Cuisine,Art de la table,Casa Lume,23.9,14.18,2021-09-13
+P0002,Assiette plate grès,Cuisine,Art de la table,Kori,9.9,5.92,2024-08-14
+P0003,Assiette plate porcelaine,Cuisine,Art de la table,Kori,22.9,8.98,2021-07-07
+P0004,Assiette plate verre,Cuisine,Art de la table,Kori,7.9,3.99,2021-10-11
+P0005,Bol céramique,Cuisine,Art de la table,Maison Brune,18.9,12.63,2025-09-13
+P0006,Bol grès,Cuisine,Art de la table,Pivoine,19.9,11.37,2024-08-29
+P0007,Bol porcelaine,Cuisine,Art de la table,Pivoine,21.9,10.32,2022-04-03
+P0008,Bol verre,Cuisine,Art de la table,Maison Brune,11.9,5.76,2024-02-17
+P0009,Carafe céramique,Cuisine,Art de la table,Verdello,8.9,4.56,2022-11-24
+P0010,Carafe grès,Cuisine,Art de la table,Verdello,15.9,6.24,2023-10-30
+P0011,Carafe porcelaine,Cuisine,Art de la table,Atelier Nord,46.9,20.31,2022-01-21
+P0012,Carafe verre,Cuisine,Art de la table,Atelier Nord,6.9,4.69,2023-04-19
+P0013,Lot de 6 verres céramique,Cuisine,Art de la table,Maison Brune,3.9,1.57,2023-11-15
+P0014,Lot de 6 verres grès,Cuisine,Art de la table,Atelier Nord,31.9,21.07,2024-06-30
+P0015,Lot de 6 verres porcelaine,Cuisine,Art de la table,Atelier Nord,10.9,6.18,2021-09-18
+P0016,Lot de 6 verres verre,Cuisine,Art de la table,Solène,21.9,9.82,2024-04-06
+P0017,Mug céramique,Cuisine,Art de la table,Verdello,11.9,7.28,2025-04-05
+P0018,Mug grès,Cuisine,Art de la table,Atelier Nord,12.9,8.77,2023-03-28
+P0019,Mug porcelaine,Cuisine,Art de la table,Solène,16.9,6.47,2024-10-24
+P0020,Mug verre,Cuisine,Art de la table,Atelier Nord,13.9,5.96,2025-02-25
+P0021,Saladier céramique,Cuisine,Art de la table,Verdello,13.9,8.16,2022-02-12
+P0022,Saladier grès,Cuisine,Art de la table,Solène,7.9,3.49,2024-05-29
+P0023,Saladier porcelaine,Cuisine,Art de la table,Maison Brune,14.9,7.04,2025-01-20
+P0024,Saladier verre,Cuisine,Art de la table,Atelier Nord,8.9,3.76,2024-11-10
+P0025,Casserole antiadhésive,Cuisine,Cuisson,Verdello,44.9,30.46,2021-10-24
+P0026,Casserole cuivre,Cuisine,Cuisson,Pivoine,54.9,34.0,2025-07-10
+P0027,Casserole fonte,Cuisine,Cuisson,Kori,95.9,43.29,2023-12-10
+P0028,Casserole inox,Cuisine,Cuisson,Verdello,51.9,20.51,2025-08-15
+P0029,Cocotte antiadhésive,Cuisine,Cuisson,Pivoine,49.9,28.18,2025-09-08
+P0030,Cocotte cuivre,Cuisine,Cuisson,Verdello,58.9,33.77,2025-12-22
+P0031,Cocotte fonte,Cuisine,Cuisson,Solène,58.9,23.43,2021-05-20
+P0032,Cocotte inox,Cuisine,Cuisson,Pivoine,43.9,28.25,2021-12-19
+P0033,Faitout antiadhésive,Cuisine,Cuisson,Pivoine,43.9,17.04,2025-01-11
+P0034,Faitout cuivre,Cuisine,Cuisson,Pivoine,56.9,27.37,2023-07-15
+P0035,Faitout fonte,Cuisine,Cuisson,Casa Lume,30.9,12.02,2022-02-05
+P0036,Faitout inox,Cuisine,Cuisson,Pivoine,63.9,26.17,2025-11-18
+P0037,Poêle antiadhésive,Cuisine,Cuisson,Casa Lume,50.9,28.44,2021-01-07
+P0038,Poêle cuivre,Cuisine,Cuisson,Maison Brune,118.9,56.12,2024-09-20
+P0039,Poêle fonte,Cuisine,Cuisson,Casa Lume,50.9,30.84,2024-02-20
+P0040,Poêle inox,Cuisine,Cuisson,Pivoine,49.9,29.62,2024-06-21
+P0041,Sauteuse antiadhésive,Cuisine,Cuisson,Solène,40.9,25.31,2023-07-10
+P0042,Sauteuse cuivre,Cuisine,Cuisson,Maison Brune,25.9,10.71,2024-02-02
+P0043,Sauteuse fonte,Cuisine,Cuisson,Solène,22.9,10.93,2024-01-13
+P0044,Sauteuse inox,Cuisine,Cuisson,Solène,41.9,19.17,2024-06-26
+P0045,Wok antiadhésive,Cuisine,Cuisson,Maison Brune,148.9,66.41,2023-11-26
+P0046,Wok cuivre,Cuisine,Cuisson,Casa Lume,47.9,21.61,2023-09-30
+P0047,Wok fonte,Cuisine,Cuisson,Pivoine,59.9,25.08,2024-09-12
+P0048,Wok inox,Cuisine,Cuisson,Casa Lume,43.9,24.83,2023-03-11
+P0049,Couteau de chef bambou,Cuisine,Ustensiles,Maison Brune,18.9,7.34,2022-05-05
+P0050,Couteau de chef hêtre,Cuisine,Ustensiles,Casa Lume,22.9,13.71,2024-06-17
+P0051,Couteau de chef inox,Cuisine,Ustensiles,Atelier Nord,10.9,7.21,2022-04-06
+P0052,Couteau de chef silicone,Cuisine,Ustensiles,Kori,13.9,6.41,2024-12-18
+P0053,Fouet bambou,Cuisine,Ustensiles,Maison Brune,15.9,8.93,2024-03-30
+P0054,Fouet hêtre,Cuisine,Ustensiles,Atelier Nord,16.9,8.36,2023-01-11
+P0055,Fouet inox,Cuisine,Ustensiles,Pivoine,13.9,7.11,2022-10-14
+P0056,Fouet silicone,Cuisine,Ustensiles,Pivoine,18.9,11.3,2022-12-30
+P0057,Louche bambou,Cuisine,Ustensiles,Kori,7.9,3.55,2021-08-15
+P0058,Louche hêtre,Cuisine,Ustensiles,Verdello,19.9,8.26,2022-04-25
+P0059,Louche inox,Cuisine,Ustensiles,Atelier Nord,11.9,6.57,2025-11-15
+P0060,Louche silicone,Cuisine,Ustensiles,Casa Lume,24.9,11.44,2024-06-03
+P0061,Planche à découper bambou,Cuisine,Ustensiles,Casa Lume,10.9,5.52,2023-02-19
+P0062,Planche à découper hêtre,Cuisine,Ustensiles,Casa Lume,16.9,10.96,2024-05-04
+P0063,Planche à découper inox,Cuisine,Ustensiles,Kori,18.9,12.77,2022-06-08
+P0064,Planche à découper silicone,Cuisine,Ustensiles,Kori,14.9,7.62,2024-03-31
+P0065,Râpe bambou,Cuisine,Ustensiles,Verdello,12.9,5.65,2025-11-21
+P0066,Râpe hêtre,Cuisine,Ustensiles,Verdello,25.9,12.97,2023-03-26
+P0067,Râpe inox,Cuisine,Ustensiles,Maison Brune,19.9,8.93,2022-03-10
+P0068,Râpe silicone,Cuisine,Ustensiles,Kori,18.9,10.42,2022-08-21
+P0069,Spatule bambou,Cuisine,Ustensiles,Solène,21.9,12.52,2025-11-02
+P0070,Spatule hêtre,Cuisine,Ustensiles,Solène,26.9,12.83,2025-02-14
+P0071,Spatule inox,Cuisine,Ustensiles,Atelier Nord,12.9,7.14,2025-05-01
+P0072,Spatule silicone,Cuisine,Ustensiles,Kori,11.9,4.96,2022-07-03
+P0073,Affiche encadrée chêne,Décoration,Mural,Verdello,26.9,16.35,2023-09-15
+P0074,Affiche encadrée laiton,Décoration,Mural,Pivoine,31.9,13.48,2025-11-13
+P0075,Affiche encadrée noir mat,Décoration,Mural,Atelier Nord,42.9,18.67,2025-10-24
+P0076,Affiche encadrée rotin,Décoration,Mural,Maison Brune,26.9,11.32,2021-06-26
+P0077,Cadre photo chêne,Décoration,Mural,Pivoine,58.9,32.7,2024-09-13
+P0078,Cadre photo laiton,Décoration,Mural,Verdello,36.9,20.83,2021-01-05
+P0079,Cadre photo noir mat,Décoration,Mural,Casa Lume,26.9,17.08,2021-03-03
+P0080,Cadre photo rotin,Décoration,Mural,Maison Brune,23.9,16.24,2024-10-29
+P0081,Horloge murale chêne,Décoration,Mural,Solène,15.9,8.01,2024-07-28
+P0082,Horloge murale laiton,Décoration,Mural,Pivoine,11.9,7.81,2025-10-29
+P0083,Horloge murale noir mat,Décoration,Mural,Maison Brune,42.9,27.92,2024-11-15
+P0084,Horloge murale rotin,Décoration,Mural,Pivoine,25.9,11.96,2022-06-16
+P0085,Miroir chêne,Décoration,Mural,Verdello,43.9,22.61,2025-10-06
+P0086,Miroir laiton,Décoration,Mural,Casa Lume,51.9,19.79,2025-01-30
+P0087,Miroir noir mat,Décoration,Mural,Maison Brune,11.9,5.91,2023-04-03
+P0088,Miroir rotin,Décoration,Mural,Pivoine,13.9,6.22,2022-08-08
+P0089,Étagère murale chêne,Décoration,Mural,Maison Brune,18.9,10.58,2023-01-25
+P0090,Étagère murale laiton,Décoration,Mural,Solène,60.9,30.54,2024-04-04
+P0091,Étagère murale noir mat,Décoration,Mural,Maison Brune,47.9,19.3,2024-07-19
+P0092,Étagère murale rotin,Décoration,Mural,Casa Lume,93.9,46.43,2024-05-31
+P0093,Bougie parfumée blanc,Décoration,Objets,Atelier Nord,10.9,4.87,2024-06-20
+P0094,Bougie parfumée sauge,Décoration,Objets,Solène,5.9,4.01,2021-10-11
+P0095,Bougie parfumée terracotta,Décoration,Objets,Kori,9.9,3.92,2025-06-09
+P0096,Bougie parfumée verre fumé,Décoration,Objets,Pivoine,9.9,5.08,2023-11-19
+P0097,Corbeille blanc,Décoration,Objets,Maison Brune,9.9,4.14,2024-04-14
+P0098,Corbeille sauge,Décoration,Objets,Atelier Nord,18.9,11.18,2022-12-09
+P0099,Corbeille terracotta,Décoration,Objets,Maison Brune,22.9,13.19,2023-12-17
+P0100,Corbeille verre fumé,Décoration,Objets,Atelier Nord,19.9,9.95,2024-10-22
+P0101,Photophore blanc,Décoration,Objets,Maison Brune,18.9,10.75,2022-04-01
+P0102,Photophore sauge,Décoration,Objets,Atelier Nord,10.9,4.99,2025-07-15
+P0103,Photophore terracotta,Décoration,Objets,Atelier Nord,15.9,8.68,2023-08-18
+P0104,Photophore verre fumé,Décoration,Objets,Atelier Nord,8.9,3.51,2024-12-08
+P0105,Statuette blanc,Décoration,Objets,Atelier Nord,25.9,16.69,2021-03-22
+P0106,Statuette sauge,Décoration,Objets,Solène,19.9,10.23,2022-04-10
+P0107,Statuette terracotta,Décoration,Objets,Solène,11.9,4.79,2021-01-29
+P0108,Statuette verre fumé,Décoration,Objets,Pivoine,20.9,12.97,2022-05-02
+P0109,Vase blanc,Décoration,Objets,Atelier Nord,27.9,13.44,2022-01-07
+P0110,Vase sauge,Décoration,Objets,Verdello,18.9,8.33,2024-03-21
+P0111,Vase terracotta,Décoration,Objets,Verdello,28.9,11.49,2021-11-11
+P0112,Vase verre fumé,Décoration,Objets,Casa Lume,9.9,5.89,2021-05-24
+P0113,Tapis berbère bleu nuit,Décoration,Tapis,Solène,35.9,16.8,2022-12-06
+P0114,Tapis berbère gris,Décoration,Tapis,Kori,68.9,29.41,2022-07-20
+P0115,Tapis berbère terracotta,Décoration,Tapis,Pivoine,70.9,40.82,2023-12-15
+P0116,Tapis berbère écru,Décoration,Tapis,Kori,85.9,42.96,2023-12-16
+P0117,Tapis d'entrée bleu nuit,Décoration,Tapis,Casa Lume,122.9,77.71,2025-03-16
+P0118,Tapis d'entrée gris,Décoration,Tapis,Maison Brune,65.9,41.36,2024-04-25
+P0119,Tapis d'entrée terracotta,Décoration,Tapis,Pivoine,60.9,33.33,2024-11-04
+P0120,Tapis d'entrée écru,Décoration,Tapis,Casa Lume,39.9,17.91,2022-04-26
+P0121,Tapis de couloir bleu nuit,Décoration,Tapis,Kori,58.9,23.19,2025-02-13
+P0122,Tapis de couloir gris,Décoration,Tapis,Maison Brune,52.9,29.53,2025-12-20
+P0123,Tapis de couloir terracotta,Décoration,Tapis,Pivoine,66.9,42.29,2022-06-09
+P0124,Tapis de couloir écru,Décoration,Tapis,Maison Brune,72.9,48.47,2021-12-07
+P0125,Tapis rond bleu nuit,Décoration,Tapis,Casa Lume,68.9,39.14,2021-03-02
+P0126,Tapis rond gris,Décoration,Tapis,Atelier Nord,74.9,43.81,2021-07-07
+P0127,Tapis rond terracotta,Décoration,Tapis,Casa Lume,106.9,66.87,2024-09-07
+P0128,Tapis rond écru,Décoration,Tapis,Casa Lume,55.9,29.79,2023-10-13
+P0129,Banc acacia,Jardin,Mobilier extérieur,Solène,109.9,62.52,2024-02-10
+P0130,Banc aluminium,Jardin,Mobilier extérieur,Casa Lume,62.9,34.94,2023-01-26
+P0131,Banc résine tressée,Jardin,Mobilier extérieur,Solène,104.9,57.33,2022-11-21
+P0132,Chaise de jardin acacia,Jardin,Mobilier extérieur,Casa Lume,141.9,56.77,2025-12-07
+P0133,Chaise de jardin aluminium,Jardin,Mobilier extérieur,Atelier Nord,85.9,56.95,2022-10-11
+P0134,Chaise de jardin résine tressée,Jardin,Mobilier extérieur,Verdello,99.9,49.86,2022-01-11
+P0135,Table basse d'extérieur acacia,Jardin,Mobilier extérieur,Pivoine,110.9,66.11,2023-10-17
+P0136,Table basse d'extérieur aluminium,Jardin,Mobilier extérieur,Casa Lume,111.9,43.68,2023-10-22
+P0137,Table basse d'extérieur résine tressée,Jardin,Mobilier extérieur,Casa Lume,156.9,100.1,2025-01-18
+P0138,Transat acacia,Jardin,Mobilier extérieur,Atelier Nord,79.9,45.97,2024-07-06
+P0139,Transat aluminium,Jardin,Mobilier extérieur,Pivoine,92.9,41.04,2024-03-04
+P0140,Transat résine tressée,Jardin,Mobilier extérieur,Pivoine,117.9,48.31,2022-07-22
+P0141,Arrosoir anthracite,Jardin,Plantation,Solène,19.9,9.29,2023-06-05
+P0142,Arrosoir rotin,Jardin,Plantation,Solène,23.9,13.69,2023-06-05
+P0143,Arrosoir terre cuite,Jardin,Plantation,Kori,23.9,10.51,2021-04-17
+P0144,Arrosoir zinc,Jardin,Plantation,Atelier Nord,16.9,9.07,2021-10-02
+P0145,Bac à plantes anthracite,Jardin,Plantation,Kori,20.9,10.37,2024-04-17
+P0146,Bac à plantes rotin,Jardin,Plantation,Casa Lume,23.9,13.06,2025-03-02
+P0147,Bac à plantes terre cuite,Jardin,Plantation,Solène,53.9,30.89,2023-12-17
+P0148,Bac à plantes zinc,Jardin,Plantation,Maison Brune,29.9,19.68,2024-04-17
+P0149,Cache-pot anthracite,Jardin,Plantation,Solène,37.9,20.67,2023-12-24
+P0150,Cache-pot rotin,Jardin,Plantation,Kori,19.9,13.47,2025-07-14
+P0151,Cache-pot terre cuite,Jardin,Plantation,Atelier Nord,32.9,15.38,2024-12-05
+P0152,Cache-pot zinc,Jardin,Plantation,Atelier Nord,34.9,14.74,2024-01-12
+P0153,Jardinière anthracite,Jardin,Plantation,Solène,22.9,10.02,2022-08-15
+P0154,Jardinière rotin,Jardin,Plantation,Pivoine,21.9,14.65,2023-08-15
+P0155,Jardinière terre cuite,Jardin,Plantation,Kori,40.9,22.15,2022-03-25
+P0156,Jardinière zinc,Jardin,Plantation,Casa Lume,15.9,8.04,2021-04-29
+P0157,Pot de fleurs anthracite,Jardin,Plantation,Verdello,20.9,8.21,2021-04-30
+P0158,Pot de fleurs rotin,Jardin,Plantation,Kori,13.9,6.47,2023-08-17
+P0159,Pot de fleurs terre cuite,Jardin,Plantation,Casa Lume,28.9,17.23,2021-02-27
+P0160,Pot de fleurs zinc,Jardin,Plantation,Casa Lume,39.9,18.77,2025-06-17
+P0161,Drap de bain coton bio,Linge de maison,Bain,Kori,33.9,16.21,2024-08-01
+P0162,Drap de bain nid d'abeille,Linge de maison,Bain,Casa Lume,19.9,10.18,2022-06-10
+P0163,Drap de bain éponge,Linge de maison,Bain,Pivoine,17.9,10.8,2025-11-25
+P0164,Peignoir coton bio,Linge de maison,Bain,Kori,14.9,7.8,2023-11-12
+P0165,Peignoir nid d'abeille,Linge de maison,Bain,Kori,16.9,8.83,2024-07-08
+P0166,Peignoir éponge,Linge de maison,Bain,Solène,32.9,16.95,2024-02-10
+P0167,Serviette de bain coton bio,Linge de maison,Bain,Casa Lume,16.9,7.06,2021-04-15
+P0168,Serviette de bain nid d'abeille,Linge de maison,Bain,Verdello,12.9,8.58,2023-01-27
+P0169,Serviette de bain éponge,Linge de maison,Bain,Atelier Nord,25.9,17.37,2023-12-30
+P0170,Tapis de bain coton bio,Linge de maison,Bain,Pivoine,20.9,10.79,2024-01-29
+P0171,Tapis de bain nid d'abeille,Linge de maison,Bain,Casa Lume,10.9,4.97,2023-04-28
+P0172,Tapis de bain éponge,Linge de maison,Bain,Verdello,8.9,3.38,2024-05-30
+P0173,Couverture coton bio,Linge de maison,Lit,Pivoine,14.9,9.93,2023-07-22
+P0174,Couverture gaze de coton,Linge de maison,Lit,Solène,31.9,13.05,2025-08-09
+P0175,Couverture lin lavé,Linge de maison,Lit,Solène,22.9,14.81,2024-07-11
+P0176,Couverture percale,Linge de maison,Lit,Verdello,36.9,19.12,2025-08-18
+P0177,Drap housse coton bio,Linge de maison,Lit,Verdello,53.9,22.94,2024-04-07
+P0178,Drap housse gaze de coton,Linge de maison,Lit,Solène,49.9,22.62,2023-03-01
+P0179,Drap housse lin lavé,Linge de maison,Lit,Pivoine,26.9,15.47,2024-03-13
+P0180,Drap housse percale,Linge de maison,Lit,Verdello,41.9,19.94,2023-02-12
+P0181,Housse de couette coton bio,Linge de maison,Lit,Verdello,31.9,18.71,2021-01-27
+P0182,Housse de couette gaze de coton,Linge de maison,Lit,Verdello,56.9,38.47,2021-04-12
+P0183,Housse de couette lin lavé,Linge de maison,Lit,Atelier Nord,12.9,7.68,2023-11-15
+P0184,Housse de couette percale,Linge de maison,Lit,Kori,38.9,25.11,2025-09-01
+P0185,Plaid coton bio,Linge de maison,Lit,Verdello,48.9,25.64,2023-06-09
+P0186,Plaid gaze de coton,Linge de maison,Lit,Pivoine,20.9,12.34,2024-01-24
+P0187,Plaid lin lavé,Linge de maison,Lit,Solène,23.9,9.74,2021-08-05
+P0188,Plaid percale,Linge de maison,Lit,Casa Lume,37.9,17.48,2022-10-10
+P0189,Taie d'oreiller coton bio,Linge de maison,Lit,Atelier Nord,35.9,20.22,2021-05-20
+P0190,Taie d'oreiller gaze de coton,Linge de maison,Lit,Verdello,24.9,12.78,2022-11-02
+P0191,Taie d'oreiller lin lavé,Linge de maison,Lit,Casa Lume,22.9,12.81,2023-09-18
+P0192,Taie d'oreiller percale,Linge de maison,Lit,Atelier Nord,22.9,9.44,2021-04-08
+P0193,Chemin de table coton,Linge de maison,Table,Maison Brune,15.9,8.45,2022-08-07
+P0194,Chemin de table enduit,Linge de maison,Table,Kori,18.9,10.73,2024-12-23
+P0195,Chemin de table lin,Linge de maison,Table,Verdello,11.9,7.07,2024-03-24
+P0196,Lot de 4 serviettes coton,Linge de maison,Table,Kori,9.9,5.57,2022-04-01
+P0197,Lot de 4 serviettes enduit,Linge de maison,Table,Solène,11.9,6.52,2023-05-22
+P0198,Lot de 4 serviettes lin,Linge de maison,Table,Casa Lume,14.9,6.48,2021-07-24
+P0199,Nappe coton,Linge de maison,Table,Maison Brune,17.9,9.87,2021-09-19
+P0200,Nappe enduit,Linge de maison,Table,Maison Brune,13.9,8.22,2022-10-08
+P0201,Nappe lin,Linge de maison,Table,Pivoine,16.9,9.16,2025-12-08
+P0202,Torchon coton,Linge de maison,Table,Casa Lume,20.9,13.35,2021-06-02
+P0203,Torchon enduit,Linge de maison,Table,Verdello,32.9,20.19,2025-03-04
+P0204,Torchon lin,Linge de maison,Table,Verdello,43.9,25.55,2024-08-30
+P0205,Applique laiton,Luminaires,Lampes,Kori,251.9,167.18,2023-05-25
+P0206,Applique noir mat,Luminaires,Lampes,Verdello,34.9,20.73,2024-05-29
+P0207,Applique opaline,Luminaires,Lampes,Solène,56.9,24.35,2025-06-07
+P0208,Applique rotin,Luminaires,Lampes,Pivoine,68.9,34.06,2021-04-10
+P0209,Lampadaire laiton,Luminaires,Lampes,Atelier Nord,46.9,31.36,2022-05-19
+P0210,Lampadaire noir mat,Luminaires,Lampes,Kori,30.9,12.34,2022-01-27
+P0211,Lampadaire opaline,Luminaires,Lampes,Maison Brune,92.9,35.67,2024-01-02
+P0212,Lampadaire rotin,Luminaires,Lampes,Solène,67.9,43.19,2022-09-13
+P0213,Lampe de chevet laiton,Luminaires,Lampes,Atelier Nord,31.9,20.4,2025-01-21
+P0214,Lampe de chevet noir mat,Luminaires,Lampes,Kori,58.9,35.15,2021-11-01
+P0215,Lampe de chevet opaline,Luminaires,Lampes,Atelier Nord,59.9,24.19,2023-11-08
+P0216,Lampe de chevet rotin,Luminaires,Lampes,Atelier Nord,139.9,91.0,2024-08-27
+P0217,Lampe à poser laiton,Luminaires,Lampes,Solène,29.9,14.04,2022-01-22
+P0218,Lampe à poser noir mat,Luminaires,Lampes,Pivoine,33.9,16.37,2024-08-24
+P0219,Lampe à poser opaline,Luminaires,Lampes,Kori,116.9,56.99,2021-11-25
+P0220,Lampe à poser rotin,Luminaires,Lampes,Kori,44.9,29.78,2022-12-17
+P0221,Guirlande lumineuse bambou,Luminaires,Suspensions,Casa Lume,52.9,25.79,2023-02-05
+P0222,Guirlande lumineuse métal doré,Luminaires,Suspensions,Kori,19.9,9.59,2024-07-18
+P0223,Guirlande lumineuse verre,Luminaires,Suspensions,Kori,66.9,31.39,2024-05-28
+P0224,Plafonnier bambou,Luminaires,Suspensions,Atelier Nord,77.9,51.08,2024-11-19
+P0225,Plafonnier métal doré,Luminaires,Suspensions,Casa Lume,55.9,25.91,2022-02-21
+P0226,Plafonnier verre,Luminaires,Suspensions,Atelier Nord,70.9,40.84,2022-11-29
+P0227,Suspension bambou,Luminaires,Suspensions,Atelier Nord,52.9,30.89,2022-03-31
+P0228,Suspension métal doré,Luminaires,Suspensions,Maison Brune,70.9,39.96,2025-11-12
+P0229,Suspension verre,Luminaires,Suspensions,Maison Brune,27.9,14.88,2022-08-16
+P0230,Bac empilable bambou,Rangement,Boîtes,Maison Brune,6.9,3.8,2021-02-11
+P0231,Bac empilable feutrine,Rangement,Boîtes,Pivoine,23.9,11.58,2022-02-21
+P0232,Bac empilable métal,Rangement,Boîtes,Solène,23.9,11.5,2022-01-27
+P0233,Bac empilable osier,Rangement,Boîtes,Casa Lume,13.9,5.72,2022-08-27
+P0234,Boîte de rangement bambou,Rangement,Boîtes,Atelier Nord,19.9,8.13,2024-12-13
+P0235,Boîte de rangement feutrine,Rangement,Boîtes,Solène,13.9,7.17,2025-01-03
+P0236,Boîte de rangement métal,Rangement,Boîtes,Solène,15.9,7.95,2022-11-28
+P0237,Boîte de rangement osier,Rangement,Boîtes,Casa Lume,13.9,7.87,2024-08-23
+P0238,Caisse bambou,Rangement,Boîtes,Pivoine,26.9,17.57,2022-01-25
+P0239,Caisse feutrine,Rangement,Boîtes,Casa Lume,14.9,8.42,2024-11-10
+P0240,Caisse métal,Rangement,Boîtes,Casa Lume,16.9,11.41,2023-11-05
+P0241,Caisse osier,Rangement,Boîtes,Kori,14.9,5.89,2024-01-18
+P0242,Panier bambou,Rangement,Boîtes,Casa Lume,14.9,8.53,2023-08-14
+P0243,Panier feutrine,Rangement,Boîtes,Casa Lume,19.9,8.44,2021-03-15
+P0244,Panier métal,Rangement,Boîtes,Maison Brune,23.9,9.36,2022-06-06
+P0245,Panier osier,Rangement,Boîtes,Pivoine,8.9,3.53,2023-08-05
+P0246,Desserte blanc,Rangement,Meubles d'appoint,Verdello,71.9,34.83,2021-08-25
+P0247,Desserte chêne,Rangement,Meubles d'appoint,Atelier Nord,31.9,19.42,2024-09-24
+P0248,Desserte métal noir,Rangement,Meubles d'appoint,Pivoine,62.9,27.98,2024-10-14
+P0249,Desserte pin,Rangement,Meubles d'appoint,Maison Brune,63.9,37.85,2024-07-17
+P0250,Meuble à chaussures blanc,Rangement,Meubles d'appoint,Pivoine,40.9,19.23,2021-11-19
+P0251,Meuble à chaussures chêne,Rangement,Meubles d'appoint,Pivoine,52.9,28.89,2025-05-01
+P0252,Meuble à chaussures métal noir,Rangement,Meubles d'appoint,Solène,57.9,35.11,2022-01-23
+P0253,Meuble à chaussures pin,Rangement,Meubles d'appoint,Atelier Nord,93.9,53.23,2025-10-25
+P0254,Porte-manteau blanc,Rangement,Meubles d'appoint,Pivoine,54.9,36.83,2025-11-21
+P0255,Porte-manteau chêne,Rangement,Meubles d'appoint,Pivoine,53.9,34.5,2022-06-28
+P0256,Porte-manteau métal noir,Rangement,Meubles d'appoint,Atelier Nord,28.9,12.74,2024-02-24
+P0257,Porte-manteau pin,Rangement,Meubles d'appoint,Casa Lume,29.9,18.0,2024-09-01
+P0258,Étagère blanc,Rangement,Meubles d'appoint,Casa Lume,66.9,37.07,2024-05-04
+P0259,Étagère chêne,Rangement,Meubles d'appoint,Verdello,41.9,17.72,2022-06-10
+P0260,Étagère métal noir,Rangement,Meubles d'appoint,Kori,94.9,40.42,2021-11-25
+P0261,Étagère pin,Rangement,Meubles d'appoint,Casa Lume,60.9,34.59,2025-01-25
