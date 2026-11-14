@@ -2,7 +2,7 @@
 
 Maison Pivoine est une enseigne fictive de vente en ligne d'articles pour la maison. Le jeu couvre les commandes passées du 1ᵉʳ janvier 2024 au 30 juin 2026. Toutes les données sont synthétiques : aucune personne réelle n'y figure.
 
-Chaque table existe en deux versions : `data/clean/` (données de référence) et `data/raw/` (export brut, à fiabiliser).
+Chaque table existe en deux versions, rangées dans deux dossiers : `clean/` (données de référence) et `raw/` (export brut, à fiabiliser).
 
 ## Relations entre les tables
 
